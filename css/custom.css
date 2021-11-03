@@ -1,0 +1,187 @@
+.icon {
+  width: 24px;
+  padding-bottom: 6px;
+  margin-top: 2px;
+}
+
+.pt-65px {
+  padding-top: 65px;
+}
+
+.table .cv-table-cell {
+  text-align: center;
+  width:330px;
+  font-weight: bold;
+}
+
+.cv-table-cell:hover,
+.cv-table-cell-list:hover {
+  background-color: #ddd;
+}
+
+.cv-table-cell a {
+  color: black;
+  display: block;
+  width: 100%;
+  text-decoration: none;
+}
+
+.cv-table-cell-list:hover {
+  cursor: pointer;
+}
+
+.modal-list {
+  padding: 0;
+}
+
+.modal-list-item {
+  padding-left: 0;
+}
+
+.modal-subheading {
+  margin: 24px 0 0 0;
+  font-weight: bold;
+}
+
+.navbar-name {
+  position: absolute;
+  left: 50%;
+  margin-left: -72px;
+  display: block;
+  font-size: 1.5em;
+}
+
+.navbar-name:hover {
+  font-weight: bold;
+}
+
+.navbar-custom {
+  background-color: #000;
+}
+
+.cover-title {
+  height: 100vh;
+  min-height: 500px;
+  color: #fff;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.about-me-block {
+  height: 90vh;
+  min-height: 500px;
+}
+
+.process-block{
+  height: 70vh;
+  min-height: 500px;
+}
+
+.about-me-img {
+  border-radius: 10px;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#about-me-body {
+  font-size: 1.2em;
+}
+
+#contact-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  background-color: #fff;
+}
+
+.text-black {
+  color: black;
+}
+
+.contact-card-title {
+  font-size: 18px;
+}
+
+#contact-card-button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: black;
+  background-color: #ccc;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.contact-card-link {
+  text-decoration: none;
+  font-size: 22px;
+  margin: 0 10px 0 10px;
+  color: black;
+}
+
+#contact-card-button:hover,
+.contact-card-link:hover {
+  opacity: 0.7;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.nav-link.active {
+  font-weight: bold;
+}
+
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.img-thumbnail {
+  height: 100%;
+}
+.carousel-inner > .carousel-item {
+  max-height: 500px;
+}
+
+.cv-portrait {
+  max-width: 200px;
+}
+
+.nav-quick-link {
+  font-size: 1.5em;
+  margin: 0 5px;
+}
+
+.fullscreen-container{
+  height:100vh;
+}
+
+.h-90vh{
+  height:90vh;
+}
+
+.w-50vh{
+  width:50vw;
+}
+
+.bg-dark-a70{
+  background-color: rgba(0, 0, 0, .7);  
+  padding:20px;
+}
+
+.note{
+  color: #6c757d;
+  font-size: .9em;
+}
