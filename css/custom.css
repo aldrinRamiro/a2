@@ -10,7 +10,7 @@
 
 .table .cv-table-cell {
   text-align: center;
-  width:330px;
+  width: 330px;
   font-weight: bold;
 }
 
@@ -78,7 +78,7 @@
   min-height: 500px;
 }
 
-.process-block{
+.process-block {
   height: 70vh;
   min-height: 500px;
 }
@@ -164,28 +164,33 @@
   margin: 0 5px;
 }
 
-.fullscreen-container{
-  height:100vh;
+.fullscreen-container {
+  height: 100vh;
 }
 
-.h-90vh{
-  height:90vh;
+.h-90vh {
+  height: 90vh;
 }
 
-.w-50vh{
-  width:50vw;
+.w-50vh {
+  width: 50vw;
 }
 
-.bg-dark-a70{
-  background-color: rgba(0, 0, 0, .7);  
-  padding:20px;
+.bg-dark-a70 {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
 }
 
-.note{
+.note {
   color: #6c757d;
-  font-size: .9em;
+  font-size: 0.9em;
 }
 
-.card{
+.card {
   min-height: 300px;
+}
+
+.project-button {
+  position: absolute;
+  bottom: 25px;
 }
